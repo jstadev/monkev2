@@ -1,32 +1,48 @@
+import dynamic from "next/dynamic";
 import Head from "next/head";
-import FaqHomeOne from "../components/common/faq/faq-home-one";
-import FeatureSectionTwo from "../components/common/feature/feature-section-two";
-import ClientSliderOne from "../components/common/sliders/client/client-slider-one";
-import TestimonialSliderOne from "../components/common/sliders/testimonial/testimonial-slider-one";
-import ContentWithPhotoSection from "../components/home/content-with-photo-section";
-import ContentWithPhotoSectionTwo from "../components/home/content-with-photo-section-two";
-import CtaHomeOne from "../components/home/cta-home-one";
-import HeroSection from "../components/home/hero-section";
-import VideoSectionTwo from "./../components/common/video/video-section-two";
+import AboutSection from "../components/home-four/about-section";
+
+import CardSliderOne from "../components/common/sliders/card/card-slider-one";
+import TextSliderTwo from "../components/common/sliders/text/text-slider-two";
+import HeroSection from "../components/home-three/hero-section";
+import NewsLetter from "../components/home-three/news-letter";
+import NftRoadMap from "../components/home-three/nft-roadmap";
+import Team from "../components/home-three/Team";
+import FaqAccordionThree from "../components/common/faq/faq-accordion-three";
+import RoadmapSection from "../components/home-four/roadmap-section";
+
+const FilterGalarryOne = dynamic(() => import("../components/common/filter-gallary/filter-gallary-one"), {
+	ssr: false,
+});
+
 
 export default function Home() {
 	return (
 		<>
-			<Head>
-				<title>fugu - index -01</title>
+					<Head>
+				<title>MonkeCrypto NFT Collections</title>
 			</Head>
 			<HeroSection />
-			<ClientSliderOne />
-			<FeatureSectionTwo />
-			<ContentWithPhotoSection />
-			<VideoSectionTwo />
-			<ContentWithPhotoSectionTwo />
-			<TestimonialSliderOne />
-			<FaqHomeOne />
-			<CtaHomeOne />
+
+			<AboutSection />
+			
+			
+			{/* <FilterGalarryOne /> */}
+			<TextSliderTwo />
+
+			{/* <CardSliderOne /> */}
+			{/* <Team /> */}
+			{/* <NftRoadMap /> */}
+
+			<RoadmapSection />
+			<FaqAccordionThree />
+			{/* <NewsLetter /> */}
 		</>
 	);
 }
+// export async function getStaticProps() {
+// 	return { props: { header: "three", footer: "three" } };
+// }
 
 export async function getStaticProps() {
 	return { props: { header: "one", footer: "one" } };

@@ -13,6 +13,7 @@ import useScroll from "./../../../hooks/useScroll";
 
 /* eslint-disable @next/next/no-img-element */
 export default function HeaderHomeOne() {
+	
 	const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
 	const handleCloseMobileMenu = () => {
