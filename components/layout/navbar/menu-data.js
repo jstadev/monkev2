@@ -268,8 +268,8 @@ export const ElementsMegaMenu = [
 	},
 
 	{
-		title: " Style",
-		path: "blog",
+		title: "Contact Style",
+		path: "#",
 		submenu: [
 			{
 				title: "Contact Dark",
@@ -287,36 +287,36 @@ export const ElementsMegaMenu = [
 	},
 ];
 
-// export const BlogDropdownMenus = [
-// 	{
-// 		title: "Blog Dark",
-// 		path: "blog-dark",
-// 	},
-	// {
-	// 	title: "Blog Dark Sidebar",
-	// 	path: "blog-dark-sidebar",
-	// },
-	// {
-	// 	title: "Blog Dark Details",
-	// 	path: "single-blog-dark",
-	// },
-	// {
-	// 	title: "Blog Light",
-	// 	path: "blog-light",
-	// },
-	// {
-	// 	title: "Blog Light Sidebar 01",
-	// 	path: "blog",
-	// },
-	// {
-	// 	title: "Blog Light Sidebar 02",
-	// 	path: "blog-light-sidebar",
-	// },
-	// {
-	// 	title: "Single Blog Light",
-	// 	path: "single-blog-light",
-	// },
-// ];
+export const BlogDropdownMenus = [
+	{
+		title: "Blog Dark",
+		path: "blog-dark",
+	},
+	{
+		title: "Blog Dark Sidebar",
+		path: "blog-dark-sidebar",
+	},
+	{
+		title: "Blog Dark Details",
+		path: "single-blog-dark",
+	},
+	{
+		title: "Blog Light",
+		path: "blog-light",
+	},
+	{
+		title: "Blog Light Sidebar 01",
+		path: "blog",
+	},
+	{
+		title: "Blog Light Sidebar 02",
+		path: "blog-light-sidebar",
+	},
+	{
+		title: "Single Blog Light",
+		path: "single-blog-light",
+	},
+];
 
 export const ContactDropdownMenus = [
 	{

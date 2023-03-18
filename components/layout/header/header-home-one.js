@@ -24,21 +24,19 @@ export default function HeaderHomeOne() {
 
 	return (
 		<header
-			className={`site-header site-header--menu-right monke--header-section monke--header-three ${
-				scroll ? "sticky-menu" : ""
-			}`}
+			className={`site-header site-header--menu-right monke-header-section ${scroll ? "sticky-menu" : ""}`}
 			id="sticky-menu"
 		>
 			<div className="container-fluid">
 				<nav className="navbar site-navbar">
 					<div className="brand-logo">
 						<Link href={"/"}>
-							<img src="/images/logo/logowhite.png" alt="" className="light-version-logo" />
+							<img src="/images/logo/logo-black.svg" alt="logo" className="light-version-logo" />
 						</Link>
 					</div>
 					<div className="menu-block-wrapper">
 						<div
-							className={`menu-overlay ${isMobileMenuOpen ? "active" : null}`}
+							className={`menu-overlay ${isMobileMenuOpen ? "active" : ""}`}
 							onClick={handleCloseMobileMenu}
 						></div>
 						<nav className={`menu-block ${isMobileMenuOpen ? "active" : null}`} id="append-menu-header">
@@ -49,21 +47,20 @@ export default function HeaderHomeOne() {
 							</div>
 
 							<Navbar>
-								
-							
-									<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
-								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus}/>
+								<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
+								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
 								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
-								<NavItem navItemText="Collection" navLink={"/collection"} menuItems={BlogDropdownMenus} />
+								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
 								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
 							</Navbar>
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="monke--btn monke--menu-btn1" href={"/"}>
-							Join The Jungle
+						<a className="monke-btn monke-header-btn" href="contact.html">
+							Get Started
 						</a>
 					</div>
+
 					<div className="mobile-menu-trigger" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
 						<span></span>
 					</div>

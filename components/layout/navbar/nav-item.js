@@ -4,7 +4,7 @@ import { useState } from "react";
 import DropdownMenu from "./dropdown-menu";
 import MegaMenu from "./mega-menu";
 
-export default function NavItem({ navItemText, menuItems, megaMenu, navLink = false }) {
+export default function NavItem({ navItemText, menuItems, megaMenu = false }) {
 	const [isOpenDropDown, setIsOpenDropDown] = useState(false);
 	const handleClick = (e) => {
 		setIsOpenDropDown(!isOpenDropDown);
@@ -12,9 +12,9 @@ export default function NavItem({ navItemText, menuItems, megaMenu, navLink = fa
 
 	return (
 		<li className={`nav-item ${menuItems ? "nav-item-has-children" : ""}`}>
-			<a href={navLink} className="nav-link-item drop-trigger" onClick={handleClick}>
+			<a href="#" className="nav-link-item drop-trigger" onClick={handleClick}>
 				{navItemText}
-				{/* <FontAwesomeIcon icon={faAngleDown} /> */}
+				<FontAwesomeIcon icon={faAngleDown} />
 			</a>
 
 			{!megaMenu ? (
