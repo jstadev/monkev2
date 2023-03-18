@@ -31,7 +31,7 @@ export default function HeaderHomeOne() {
 				<nav className="navbar site-navbar">
 					<div className="brand-logo">
 						<Link href={"/"}>
-							<img src="/images/logo/logo-black.svg" alt="logo" className="light-version-logo" />
+							<img src="/images/logo/logowhite.png" alt="logo" className="light-version-logo" />
 						</Link>
 					</div>
 					<div className="menu-block-wrapper">
@@ -47,6 +47,7 @@ export default function HeaderHomeOne() {
 							</div>
 
 							<Navbar>
+								
 								<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
 								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
 								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
@@ -56,8 +57,8 @@ export default function HeaderHomeOne() {
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="monke-btn monke-header-btn" href="contact.html">
-							Get Started
+						<a className="monke--btn monke--menu-btn1" href="contact.html">
+							Join The Jungle
 						</a>
 					</div>
 
@@ -69,3 +70,5 @@ export default function HeaderHomeOne() {
 		</header>
 	);
 }
+
+

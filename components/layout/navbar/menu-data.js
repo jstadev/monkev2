@@ -63,11 +63,11 @@ export const PagesDropdownMenus = [
 	},
 	{
 		title: "Blog Dark",
-		path: "blog-dark",
+		path: "nft-collection",
 		submenu: [
 			{
 				title: "Blog Dark",
-				path: "blog-dark",
+				path: "nft-collection",
 			},
 			{
 				title: "Blog Dark Sidebar",
@@ -215,7 +215,7 @@ export const ElementsMegaMenu = [
 		submenu: [
 			{
 				title: "Blog Dark",
-				path: "blog-dark",
+				path: "nft-collection",
 			},
 			{
 				title: "Blog Dark Sidebar",
@@ -290,7 +290,7 @@ export const ElementsMegaMenu = [
 export const BlogDropdownMenus = [
 	{
 		title: "Blog Dark",
-		path: "blog-dark",
+		path: "nft-collection",
 	},
 	{
 		title: "Blog Dark Sidebar",
