@@ -1,4 +1,4 @@
-import BlogDarkInnerSection from "../components/nft-collection/blog-dark-inner-section";
+import BlogDarkInnerSection from "../components/blog-dark/blog-dark-inner-section";
 
 export default function BlogDark() {
 	return <BlogDarkInnerSection />;
