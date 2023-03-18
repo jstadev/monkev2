@@ -61,7 +61,7 @@ export default function BlogFiltering() {
 			<div className="col-12">
 				<div className="monke--portfolio-wrap row" id="monke--two-column">
 
-					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -84,7 +84,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -107,7 +107,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -130,7 +130,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -153,7 +153,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -176,7 +176,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -199,7 +199,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -222,7 +222,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -245,7 +245,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -268,7 +268,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -291,7 +291,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -314,7 +314,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -337,7 +337,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -360,7 +360,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -383,7 +383,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -406,7 +406,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -429,7 +429,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -452,7 +452,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -475,7 +475,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -498,7 +498,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -521,7 +521,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -544,7 +544,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -567,7 +567,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 
-					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="https://google.com">
@@ -593,7 +593,7 @@ export default function BlogFiltering() {
 					
 
 					{/* <div
-						className="collection-grid-item sports collectible wow fadeInUpX col-lg-2 col-sm-12"
+						className="collection-grid-item sports collectible wow fadeInUpX col-lg-3 col-sm-12"
 						data-wow-delay=".10s"
 					>
 						<div className="monke--blog-wrap">
@@ -640,7 +640,7 @@ export default function BlogFiltering() {
 							</div>
 						</div>
 					</div> */}
-					{/* <div className="collection-grid-item analysis wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
+					{/* <div className="collection-grid-item analysis wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
 								<Link href="single-blog-dark">
@@ -686,7 +686,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 					<div
-						className="collection-grid-item sports collectible wow fadeInUpX col-lg-2 col-sm-12"
+						className="collection-grid-item sports collectible wow fadeInUpX col-lg-3 col-sm-12"
 						data-wow-delay=".10s"
 					>
 						<div className="monke--blog-wrap">
@@ -734,7 +734,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 					<div
-						className="collection-grid-item collectible wow fadeInUpX col-lg-2 col-sm-12"
+						className="collection-grid-item collectible wow fadeInUpX col-lg-3 col-sm-12"
 						data-wow-delay=".20s"
 					>
 						<div className="monke--blog-wrap">
@@ -782,7 +782,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 					<div
-						className="collection-grid-item metaverse sports wow fadeInUpX col-lg-2 col-sm-12"
+						className="collection-grid-item metaverse sports wow fadeInUpX col-lg-3 col-sm-12"
 						data-wow-delay=".30s"
 					>
 						<div className="monke--blog-wrap">
@@ -830,7 +830,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 					<div
-						className="collection-grid-item utility collectible wow fadeInUpX col-lg-2 col-sm-12"
+						className="collection-grid-item utility collectible wow fadeInUpX col-lg-3 col-sm-12"
 						data-wow-delay=".40s"
 					>
 						<div className="monke--blog-wrap">
@@ -878,7 +878,7 @@ export default function BlogFiltering() {
 						</div>
 					</div>
 					<div
-						className="collection-grid-item utility wow fadeInUpX col-lg-2 col-sm-12"
+						className="collection-grid-item utility wow fadeInUpX col-lg-3 col-sm-12"
 						data-wow-delay=".50s"
 					>
 						<div className="monke--blog-wrap">

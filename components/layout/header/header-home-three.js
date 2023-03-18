@@ -66,7 +66,7 @@ export default function HeaderHomeThree() {
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="monke--btn monke--menu-btn1" href="contact.html">
+						<a className="monke--btn monke--menu-btn1" href="/blog">
 							Join The Jungle
 						</a>
 					</div>
