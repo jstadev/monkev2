@@ -50,25 +50,17 @@ export default function HeaderHomeOne() {
 
 							<Navbar>
 								
-								{/* <Link href="/index-three">
-								<NavItem navItemText="Home" />
-									</Link>
-								<Link href="/blog-dark">
-								<NavItem navItemText="Collection" />
-									</Link>
-									<Link href="/#story">
-								<NavItem navItemText="Story" />
-									</Link> */}
+							
 									<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
 								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus}/>
 								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
-								<NavItem navItemText="Collection" navLink="/blog-dark" menuItems={BlogDropdownMenus} />
+								<NavItem navItemText="Collection" navLink={"/collection"} menuItems={BlogDropdownMenus} />
 								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
 							</Navbar>
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="monke--btn monke--menu-btn1" path="/blog-dark">
+						<a className="monke--btn monke--menu-btn1" href={"/"}>
 							Join The Jungle
 						</a>
 					</div>
