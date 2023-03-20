@@ -58,7 +58,7 @@ export default function BlogFiltering() {
 				</div>
 			</div>
 
-			<div className="col-12">
+			<div className="col-12" style={{padding:"0 40px"}}>
 				<div className="monke--portfolio-wrap row" id="monke--two-column">
 
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">

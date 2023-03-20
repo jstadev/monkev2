@@ -368,6 +368,10 @@
 	}
 }
 
+.collection-grid-item.laser.wow.fadeInUpX.col-lg-3.col-sm-12 {
+	padding: 0 !important;
+}
+
 .dark-mode-texts .nav-link-item {
 	color: #fff;
 }

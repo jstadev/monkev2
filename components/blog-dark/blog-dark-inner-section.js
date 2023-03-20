@@ -15,11 +15,15 @@ export default function BlogDarkInnerSection() {
 			<AboutHeroSection />
 			{/* TODO edo mpainei container class */}
 			<div className="" > 
+			
+
+			
 				{/* <BreadcrumbsSection /> */}
 				{/* <BlogTopSection /> */}
 				
 				<BlogFilterning />
 				{/* <BlogPaginationDark /> */}
+				
 			</div>
 
 			<div className="monke--blog-shape1">
