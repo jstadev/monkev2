@@ -21,9 +21,10 @@ export const DemoDropdownMenus = [
 	},
 ];
 export const PagesDropdownMenus = [
-	// {
-	// 	title: "Pages",
-		
+	{
+		title: "collection",
+		path: "blog-dark",
+	},
 	// 	submenu: [
 	// 		{
 	// 			title: "About Dark",
@@ -61,24 +62,24 @@ export const PagesDropdownMenus = [
 	// 		},
 	// 	],
 	// },
-	{
-		title: "Blog Dark",
-		path: "blog-dark",
-		submenu: [
-			{
-				title: "Blog Dark",
-				path: "blog-dark",
-			},
-			{
-				title: "Blog Dark Sidebar",
-				path: "blog-dark-sidebar",
-			},
-			{
-				title: "Blog Dark Details",
-				path: "single-blog-dark",
-			},
-		],
-	},
+	// {
+	// 	title: "Blog Dark",
+	// 	path: "blog-dark",
+	// 	submenu: [
+	// 		{
+	// 			title: "Blog Dark",
+	// 			path: "blog-dark",
+	// 		},
+	// 		{
+	// 			title: "Blog Dark Sidebar",
+	// 			path: "blog-dark-sidebar",
+	// 		},
+	// 		{
+	// 			title: "Blog Dark Details",
+	// 			path: "single-blog-dark",
+	// 		},
+	// 	],
+	// },
 // 	{
 // 		title: "Service",
 // 		path: "#",

@@ -47,20 +47,28 @@ export default function HeaderHomeOne() {
 							</div>
 
 							<Navbar>
-								<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
-								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
+								<Link href={"/blog-dark"}>
+									kaopiso
+								
+									</Link>
+								{/* <NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
+								<NavItem navItemText="Collection" menuItems={PagesDropdownMenus} />
 								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
 								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
-								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
+								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} /> */}
 							</Navbar>
 						</nav>
 					</div>
-					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
+					{/* <div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
 						<a className="monke-btn monke-header-btn" href="contact.html">
 							Get Started
 						</a>
+					</div> */}
+<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
+						<a className="monke--btn monke--menu-btn1" href="contact.html">
+							Join The Jungle
+						</a>
 					</div>
-
 					<div className="mobile-menu-trigger" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
 						<span></span>
 					</div>
