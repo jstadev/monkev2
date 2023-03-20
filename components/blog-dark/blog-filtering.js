@@ -64,7 +64,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/1">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/1.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -87,7 +87,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/2">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/2.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -110,7 +110,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/3">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/3.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -132,7 +132,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/4">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/4.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -155,7 +155,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/5">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/5.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -177,7 +177,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/6">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/6.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -200,7 +200,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/7">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/7.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -223,7 +223,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/8">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/8.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -245,7 +245,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/9">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/9.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -268,7 +268,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/10">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/10.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -290,7 +290,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/11">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/11.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -313,7 +313,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/12">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/12.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -336,7 +336,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/13">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/13.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -358,7 +358,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/14">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/14.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -381,7 +381,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/15">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/15.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -403,7 +403,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/16">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/16.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -426,7 +426,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/17">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/17.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -449,7 +449,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/18">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/18.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -471,7 +471,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/19">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/19.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -494,7 +494,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/20">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/20.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -516,7 +516,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/21">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/21.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -539,7 +539,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/22">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/22.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -562,7 +562,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/23">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/23.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -584,7 +584,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/24">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/24.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -607,7 +607,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/25">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/25.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -629,7 +629,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/26">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/26.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -652,7 +652,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/27">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/27.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -675,7 +675,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/28">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/28.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -697,7 +697,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/29">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/29.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -720,7 +720,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/30">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/30.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -742,7 +742,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/31">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/31.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -765,7 +765,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/32">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/32.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -788,7 +788,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/33">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/33.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -810,7 +810,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/34">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/34.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -833,7 +833,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/35">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/35.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -855,7 +855,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/36">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/36.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -878,7 +878,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/37">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/37.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -901,7 +901,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/38">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/38.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -923,7 +923,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/39">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/39.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -946,7 +946,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/40">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/40.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -968,7 +968,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/41">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/41.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -991,7 +991,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/42">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/42.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1014,7 +1014,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/43">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/43.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1036,7 +1036,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/44">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/44.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1059,7 +1059,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/45">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/45.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1081,7 +1081,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/46">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/46.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1104,7 +1104,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/47">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/47.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1127,7 +1127,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/48">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/48.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1149,7 +1149,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/49">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/49.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1174,7 +1174,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/50">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/50.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1197,7 +1197,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/51">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/51.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1220,7 +1220,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/52">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/52.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1243,7 +1243,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/53">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/53.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1266,7 +1266,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/54">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/54.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1289,7 +1289,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/55">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/55.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1312,7 +1312,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/56">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/56.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1335,7 +1335,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/57">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/57.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1358,7 +1358,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/58">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/58.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1381,7 +1381,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/59">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/59.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1404,7 +1404,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/60">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/60.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1427,7 +1427,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/61">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/61.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1450,7 +1450,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/62">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/62.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1473,7 +1473,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/63">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/63.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1496,7 +1496,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/64">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/64.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1519,7 +1519,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/65">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/65.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1542,7 +1542,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/66">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/66.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1565,7 +1565,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/67">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/67.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1588,7 +1588,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/68">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/68.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
@@ -1611,7 +1611,7 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-2 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://raresama.com/nft/2109/0xf31a93551b4933a1474df37a89889fc134abf05e/69">
+								<Link href="https://google.com">
 									<img src="/images/monkeys/69.jpg" alt="" />
 								</Link>
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
