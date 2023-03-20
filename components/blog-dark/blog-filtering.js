@@ -1,4 +1,4 @@
-/* eslint-disable @next/next/no-img-element */
+// /* eslint-disable @next/next/no-img-element */
 import Isotope from "isotope-layout";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
@@ -58,25 +58,25 @@ export default function BlogFiltering() {
 				</div>
 			</div>
 
-			<div className="col-12" style={{padding:"0 40px"}}>
+			<div className="col-12" style={{padding:"0 4loca0px"}}>
 				<div className="monke--portfolio-wrap row" id="monke--two-column">
 
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -87,19 +87,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -110,19 +110,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -133,19 +133,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -156,19 +156,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -179,19 +179,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -202,19 +202,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item laser wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -225,19 +225,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -248,19 +248,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -271,19 +271,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -294,19 +294,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -317,19 +317,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -340,19 +340,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -363,19 +363,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -386,19 +386,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -409,19 +409,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -432,19 +432,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -455,19 +455,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -478,19 +478,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -501,19 +501,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -524,19 +524,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item crown wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -547,19 +547,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item hat wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -570,19 +570,19 @@ export default function BlogFiltering() {
 					<div className="collection-grid-item chain wow fadeInUpX col-lg-3 col-sm-12" data-wow-delay="0s">
 						<div className="monke--blog-wrap">
 							<div className="monke--blog-thumb">
-								<Link href="https://google.com">
+								
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								{/* <div className="monke--blog-badge">Art & Analysis</div> */}
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												Monkey #52
 												
-											</Link>
+											
 										</li>	
 									</ul>
 								</div>
@@ -600,29 +600,29 @@ export default function BlogFiltering() {
 							<div className="monke--blog-thumb">
 								<Link href="single-blog-dark">
 									<img src="/images/all-img/blog2/dark/blog2.png" alt="" />
-								</Link>
+								
 								<div className="monke--blog-badge">Art & Analysis</div>
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/calendar.svg" alt="" />
 												July 18, 2022
-											</Link>
+											
 										</li>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/clock.svg" alt="" />5 min read
-											</Link>
+											
 										</li>
 									</ul>
 								</div>
 								<div className="monke--blog-title">
 									<Link href="single-blog-dark">
 										<h3>MegaCryptoPolis distributed $63M to players since 2018 in Metaverse</h3>
-									</Link>
+									
 								</div>
 								<p>
 									It has now been 6 months since the NFT market saw indicators strongly shaken up,
@@ -645,29 +645,29 @@ export default function BlogFiltering() {
 							<div className="monke--blog-thumb">
 								<Link href="single-blog-dark">
 									<img src="/images/all-img/monke52.jpeg" alt="" />
-								</Link>
+								
 								<div className="monke--blog-badge">Art & Analysis</div>
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/calendar.svg" alt="" />
 												July 18, 2022
-											</Link>
+											
 										</li>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/clock.svg" alt="" />5 min read
-											</Link>
+											
 										</li>
 									</ul>
 								</div>
 								<div className="monke--blog-title">
 									<Link href="single-blog-dark">
 										<h3>What does the NFT Ecosystem look like after the Boom?</h3>
-									</Link>
+									
 								</div>
 								<p>
 									It has now been 6 months since the NFT market saw indicators strongly shaken up,
@@ -693,29 +693,29 @@ export default function BlogFiltering() {
 							<div className="monke--blog-thumb">
 								<Link href="single-blog-dark">
 									<img src="/images/all-img/blog2/dark/blog2.png" alt="" />
-								</Link>
+								
 								<div className="monke--blog-badge">Art & Analysis</div>
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/calendar.svg" alt="" />
 												July 18, 2022
-											</Link>
+											
 										</li>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/clock.svg" alt="" />5 min read
-											</Link>
+											
 										</li>
 									</ul>
 								</div>
 								<div className="monke--blog-title">
 									<Link href="single-blog-dark">
 										<h3>MegaCryptoPolis distributed $63M to players since 2018 in Metaverse</h3>
-									</Link>
+									
 								</div>
 								<p>
 									It has now been 6 months since the NFT market saw indicators strongly shaken up,
@@ -741,29 +741,29 @@ export default function BlogFiltering() {
 							<div className="monke--blog-thumb">
 								<Link href="single-blog-dark">
 									<img src="/images/all-img/blog2/dark/blog3.png" alt="" />
-								</Link>
+								
 								<div className="monke--blog-badge">Art & Analysis</div>
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/calendar.svg" alt="" />
 												July 18, 2022
-											</Link>
+											
 										</li>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/clock.svg" alt="" />5 min read
-											</Link>
+											
 										</li>
 									</ul>
 								</div>
 								<div className="monke--blog-title">
 									<Link href="single-blog-dark">
 										<h3>Always be on time on your NFTs and metaverse event with Dwiss!</h3>
-									</Link>
+									
 								</div>
 								<p>
 									It has now been 6 months since the NFT market saw indicators strongly shaken up,
@@ -789,29 +789,29 @@ export default function BlogFiltering() {
 							<div className="monke--blog-thumb">
 								<Link href="single-blog-dark">
 									<img src="/images/all-img/blog2/dark/blog4.png" alt="" />
-								</Link>
+								
 								<div className="monke--blog-badge">Art & Analysis</div>
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/calendar.svg" alt="" />
 												July 18, 2022
-											</Link>
+											
 										</li>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/clock.svg" alt="" />5 min read
-											</Link>
+											
 										</li>
 									</ul>
 								</div>
 								<div className="monke--blog-title">
 									<Link href="single-blog-dark">
 										<h3>Mekaverse Launch: Let’s take a step back with data!</h3>
-									</Link>
+									
 								</div>
 								<p>
 									It has now been 6 months since the NFT market saw indicators strongly shaken up,
@@ -837,29 +837,29 @@ export default function BlogFiltering() {
 							<div className="monke--blog-thumb">
 								<Link href="single-blog-dark">
 									<img src="/images/all-img/blog2/dark/blog5.png" alt="" />
-								</Link>
+								
 								<div className="monke--blog-badge">Art & Analysis</div>
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/calendar.svg" alt="" />
 												July 18, 2022
-											</Link>
+											
 										</li>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/clock.svg" alt="" />5 min read
-											</Link>
+											
 										</li>
 									</ul>
 								</div>
 								<div className="monke--blog-title">
 									<Link href="single-blog-dark">
 										<h3>Ultra Club & NFTs: Is E11even Miami the King of Non-Fungible Nightlife?</h3>
-									</Link>
+									
 								</div>
 								<p>
 									It has now been 6 months since the NFT market saw indicators strongly shaken up,
@@ -885,29 +885,29 @@ export default function BlogFiltering() {
 							<div className="monke--blog-thumb">
 								<Link href="single-blog-dark">
 									<img src="/images/all-img/blog2/dark/blog6.png" alt="" />
-								</Link>
+								
 								<div className="monke--blog-badge">Art & Analysis</div>
 							</div>
 							<div className="monke--blog-content">
 								<div className="monke--blog-date">
 									<ul>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/calendar.svg" alt="" />
 												July 18, 2022
-											</Link>
+											
 										</li>
 										<li>
-											<Link href="/">
+											
 												<img src="/images/svg2/clock.svg" alt="" />5 min read
-											</Link>
+											
 										</li>
 									</ul>
 								</div>
 								<div className="monke--blog-title">
 									<Link href="single-blog-dark">
 										<h3>ART Domains open call: exhibit in the metaverse with Roborace</h3>
-									</Link>
+									
 								</div>
 								<p>
 									It has now been 6 months since the NFT market saw indicators strongly shaken up,

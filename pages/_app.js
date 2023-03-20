@@ -6,7 +6,7 @@ import Head from "next/head";
 import "react-modal-video/css/modal-video.min.css";
 import "swiper/css";
 import "swiper/css/effect-cards";
-import Preloader from "../components/common/preloader/preloader";
+// import Preloader from "../components/common/preloader/preloader";
 import ScrollTop from "../components/common/scroll-top";
 import "../styles/css/app.css";
 import "../styles/css/main.css";
@@ -23,7 +23,7 @@ function MyApp({ Component, pageProps }) {
 			</Layout>
 
 			<ScrollTop />
-			<Preloader />
+			{/* <Preloader /> */}
 		</>
 	);
 }

@@ -14,7 +14,7 @@ export default function BlogDarkInnerSection() {
 		<div className="monke--inner-section dark-version">
 			<AboutHeroSection />
 			{/* TODO edo mpainei container class */}
-			<div className="" > 
+			{/* <div className="" >  */}
 			
 
 			
@@ -24,7 +24,7 @@ export default function BlogDarkInnerSection() {
 				<BlogFilterning />
 				{/* <BlogPaginationDark /> */}
 				
-			</div>
+			{/* </div> */}
 
 			<div className="monke--blog-shape1">
 				<img src="/images/all-img/v3/shape2.png" alt="" />

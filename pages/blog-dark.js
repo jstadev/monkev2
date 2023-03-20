@@ -5,5 +5,5 @@ export default function BlogDark() {
 }
 
 export async function getStaticProps() {
-	return { props: { header: "three", footer: "three" } };
+	return { props: { header: "one", footer: "one" } };
 }
