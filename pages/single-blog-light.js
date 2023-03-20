@@ -1,11 +1,11 @@
-// import BreadCrumbsSection from "../components/single-blog-light/breadcrumbs-section";
-// import SingleBlogContainer from "../components/single-blog-light/single-blog-container";
+import BreadCrumbsSection from "../components/single-blog-light/breadcrumbs-section";
+import SingleBlogContainer from "../components/single-blog-light/single-blog-container";
 
-// export default function SingleBlog() {
-// 	return (
-// 		<>
-// 			<BreadCrumbsSection />
-// 			<SingleBlogContainer />
-// 		</>
-// 	);
-// }
+export default function SingleBlog() {
+	return (
+		<>
+			<BreadCrumbsSection />
+			<SingleBlogContainer />
+		</>
+	);
+}
