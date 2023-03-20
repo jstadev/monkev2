@@ -32,17 +32,17 @@ export default function Layout({ children }) {
 	const footerChooseFunc = () => {
 		switch (children.props.footer) {
 			case "one":
-				return <FooterHomeOne />;
-			case "two":
-				return <FooterHomeTwo />;
-			case "three":
 				return <FooterHomeThree />;
-			case "four":
-				return <FooterHomeFour />;
-			case "five":
-				return <FooterHomeFive />;
+			// case "two":
+			// 	return <FooterHomeTwo />;
+			// case "three":
+			// 	return <FooterHomeThree />;
+			// case "four":
+			// 	return <FooterHomeFour />;
+			// case "five":
+			// 	return <FooterHomeFive />;
 			default:
-				return <FooterHomeOne />;
+				return <FooterHomeThree />;
 		}
 	};
 	return (
