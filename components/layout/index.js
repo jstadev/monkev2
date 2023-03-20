@@ -15,16 +15,16 @@ export default function Layout({ children }) {
 		switch (children.props.header) {
 			case "one":
 				return <HeaderHomeOne />;
-			case "two":
-				return <HeaderHomeTwo />;
-			case "three":
-				return <HeaderHomeThree />;
-			case "four":
-				return <HeaderHomeFour />;
-			case "five":
-				return <HeaderHomeFive />;
-			case "six":
-				return <HeaderErrorSix />;
+			// case "two":
+			// 	return <HeaderHomeTwo />;
+			// case "three":
+			// 	return <HeaderHomeThree />;
+			// case "four":
+			// 	return <HeaderHomeFour />;
+			// case "five":
+			// 	return <HeaderHomeFive />;
+			// case "six":
+			// 	return <HeaderErrorSix />;
 			default:
 				return <HeaderHomeOne />;
 		}
