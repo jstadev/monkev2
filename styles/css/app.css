@@ -2349,7 +2349,7 @@ header.monke-header-section {
 
 header.monke-header-section.sticky-menu {
 	padding: 10px 0;
-	background-color: #fff;
+	background-color: #222222;
 	box-shadow: 0 4px 80px rgba(0, 0, 0, 0.06);
 }
 
@@ -4076,7 +4076,7 @@ button#monke--search-btn {
 	transform: scale(1.07) rotate(2deg);
 }
 .monke--blog-thumb {
-	height: 400px;
+	height: auto;
 	overflow: hidden;
 	position: relative;
 }

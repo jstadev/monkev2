@@ -31,7 +31,7 @@ export default function HeaderHomeOne() {
 				<nav className="navbar site-navbar">
 					<div className="brand-logo">
 						<Link href={"/"}>
-							<img src="/images/logo/logo-black.svg" alt="logo" className="light-version-logo" />
+							<img src="/images/logo/logowhite.png" alt="logo" className="light-version-logo" />
 						</Link>
 					</div>
 					<div className="menu-block-wrapper">
@@ -47,10 +47,15 @@ export default function HeaderHomeOne() {
 							</div>
 
 							<Navbar>
-								<Link href={"/blog-dark"}>
-									kaopiso
+							<Link className="nav-links" href={"/"}>
+									Home
 								
 									</Link>
+								<Link className="nav-links" href={"/blog-dark"}>
+									Collection
+								
+									</Link>
+									
 								{/* <NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
 								<NavItem navItemText="Collection" menuItems={PagesDropdownMenus} />
 								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
