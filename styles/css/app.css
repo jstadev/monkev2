@@ -5849,6 +5849,7 @@ a.monke-app-btn:last-child {
 }
 .monke--iconbox-thumb {
 	margin-bottom: 30px;
+	max-width: 90px;
 }
 .monke--iconbox-data h4 {
 	font-weight: 600;
@@ -9931,6 +9932,8 @@ button#monke-input-submit:hover {
 }
 .monke--blog-filtering .monke--section-title-wrap {
 	align-items: center;
+	padding: 0 50px;
+	
 }
 @media (max-width: 1199px) {
 	.monke--blog-filtering .monke--section-title-wrap {

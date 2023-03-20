@@ -16,7 +16,7 @@ export default function RoadmapSection() {
 					<div className="col-xl-3 col-md-6">
 						<div className="monke--iconbox-wrap wow fadeInUpX" data-wow-delay="0s">
 							<div className="monke--iconbox-thumb">
-								<img src="/images/all-img/v4/icon1.png" alt="" />
+								<img src="/images/all-img/rocket.png" alt="" />
 							</div>
 							<div className="monke--iconbox-data">
 								<h4>Phase 1</h4>
@@ -28,7 +28,7 @@ export default function RoadmapSection() {
 					<div className="col-xl-3 col-md-6">
 						<div className="monke--iconbox-wrap wow fadeInUpX" data-wow-delay="0.10s">
 							<div className="monke--iconbox-thumb">
-								<img src="/images/all-img/v4/icon2.png" alt="" />
+								<img src="/images/all-img/website-codes.png" alt="" />
 							</div>
 							<div className="monke--iconbox-data">
 								<h4>Phase 2</h4>
@@ -40,7 +40,7 @@ export default function RoadmapSection() {
 					<div className="col-xl-3 col-md-6">
 						<div className="monke--iconbox-wrap wow fadeInUpX" data-wow-delay="0.20s">
 							<div className="monke--iconbox-thumb">
-								<img src="/images/all-img/v4/icon3.png" alt="" />
+								<img src="/images/all-img/web-design.png" alt="" />
 							</div>
 							<div className="monke--iconbox-data">
 								<h4>Phase 3</h4>
@@ -52,7 +52,7 @@ export default function RoadmapSection() {
 					<div className="col-xl-3 col-md-6">
 						<div className="monke--iconbox-wrap wow fadeInUpX" data-wow-delay="0.30s">
 							<div className="monke--iconbox-thumb">
-								<img src="/images/all-img/v4/icon4.png" alt="" />
+								<img src="/images/all-img/video-game.png" alt="" />
 							</div>
 							<div className="monke--iconbox-data">
 								<h4>Phase 4</h4>
