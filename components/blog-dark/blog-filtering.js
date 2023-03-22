@@ -42,18 +42,23 @@ export default function BlogFiltering() {
 						<li onClick={handleFilterKeyChange("*")} className={handleActiveClass("*")}>
 							<span>All</span>
 						</li>
-						<li onClick={handleFilterKeyChange("laser")} className={handleActiveClass("analysis")}>
-							<span>Laser Eyes</span>
-						</li>
-						<li onClick={handleFilterKeyChange("crown")} className={handleActiveClass("collectible")}>
+						<li onClick={handleFilterKeyChange("crown")} className={handleActiveClass("crown")}>
 							<span>Crown</span>
 						</li>
-						<li onClick={handleFilterKeyChange("hat")} className={handleActiveClass("metaverse")}>
-							<span>Hat</span>
+						<li onClick={handleFilterKeyChange("laser")} className={handleActiveClass("laser")}>
+							<span>Laser Eyes</span>
 						</li>
-						<li onClick={handleFilterKeyChange("chain")} className={handleActiveClass("utility")}>
-							<span>Chain</span>
+						<li onClick={handleFilterKeyChange("cap")} className={handleActiveClass("cap")}>
+							<span>Cap</span>
 						</li>
+						<li onClick={handleFilterKeyChange("chain")} className={handleActiveClass("chain")}>
+							<span>G Chain</span>
+						</li>
+
+						<li onClick={handleFilterKeyChange("earring")} className={handleActiveClass("earring")}>
+							<span>Earring</span>
+						</li>
+
 					</ul>
 				</div>
 			</div>

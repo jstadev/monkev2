@@ -13,7 +13,7 @@ import useScroll from "./../../../hooks/useScroll";
 
 /* eslint-disable @next/next/no-img-element */
 export default function HeaderHomeOne() {
-	
+
 	const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
 	const handleCloseMobileMenu = () => {
@@ -47,15 +47,15 @@ export default function HeaderHomeOne() {
 							</div>
 
 							<Navbar>
-							<Link className="nav-links" href={"/"}>
+								<Link className="nav-links" href={"/"}>
 									Home
-								
-									</Link>
+
+								</Link>
 								<Link className="nav-links" href={"/blog-dark"}>
 									Collection
-								
-									</Link>
-									
+
+								</Link>
+
 								{/* <NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
 								<NavItem navItemText="Collection" menuItems={PagesDropdownMenus} />
 								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
@@ -69,10 +69,16 @@ export default function HeaderHomeOne() {
 							Get Started
 						</a>
 					</div> */}
-<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="monke--btn monke--menu-btn1" href="#">
+					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
+
+
+						<a className="monke--btn monke--menu-btn1" href="https://t.me/MonkeysNFT69">
 							Join The Jungle
 						</a>
+
+						<Link href={"https://twitter.com/_MonkeysNFT"}>
+							<img className="twit-icon" src="/images/social2/twitter.svg" alt="" />
+						</Link>
 					</div>
 					<div className="mobile-menu-trigger" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
 						<span></span>
